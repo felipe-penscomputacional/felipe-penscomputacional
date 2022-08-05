@@ -2,6 +2,9 @@
 
 ## Algumas considerações
 
+##### Teste
+- :thumbsup:
+
 - :point_right: Olá, meu nome é Felipe!
 - :email: Meu e-mail é felipe.oliveira.teixeira@escola.pr.gov.br!
 - :man_student: Sou formado em Matemática pela UNESPAR (2017-2020).
