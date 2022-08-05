@@ -5,7 +5,9 @@
 ##### Teste
 - :thumbsup:
 
-- :point_right: Olá, meu nome é Felipe!
+- :scream:
+
+- :scream::scream::point_right: Olá, meu nome é Felipe!
 - :email: Meu e-mail é felipe.oliveira.teixeira@escola.pr.gov.br!
 - :man_student: Sou formado em Matemática pela UNESPAR (2017-2020).
 - :man_teacher: Sou professor de Pensamento Computacional no CCM Marechal Rondon nos 1A, 1B, 1C e 1F.
